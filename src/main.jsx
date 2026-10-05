@@ -9,7 +9,7 @@ createRoot(document.getElementById("root")).render(
   <BrowserRouter>
     <nav className="nav">
       <Link to="/" className="brand">
-        <span></span> MediLookup
+        <span>🔍</span> MediLookup
       </Link>
       <span className="nav-tag">Powered by openFDA</span>
     </nav>
