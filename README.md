@@ -1,4 +1,4 @@
-# Medicine Search
+# Medilookup
 
 Search medicines by brand name using the openFDA Drug Label API.
 
